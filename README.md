@@ -276,5 +276,3 @@ newWorker: {
 ## License
 
 MIT License - see LICENSE file for details.
-#   r u m b l e - s t a r t u p  
- 
